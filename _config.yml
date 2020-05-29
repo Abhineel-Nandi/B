@@ -1,5 +1,5 @@
 title:              Clean Blog
-email:              noobNandi04@gmail.com
+email:              b419006@iiit-bh.ac.in
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl:            "/startbootstrap-clean-blog-jekyll"
@@ -8,8 +8,8 @@ url:                "https://Abhineel-Nandi.github.io"
 # Social Profiles
 twitter_username:   
 github_username:    Abhineel-Nandi
-facebook_username:  Abhineel Nandi
-linkedin_username:  Abhineel Nandi
+facebook_username:  abhineel.nandi.3
+linkedin_username:  abhineel-nandi-0004
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-167948900-1 # out your google-analytics code
@@ -21,4 +21,4 @@ paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap 
