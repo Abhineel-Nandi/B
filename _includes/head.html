@@ -6,7 +6,6 @@
   <title>
     {% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}
     {% else %}{{ site.title | escape }}{% endif %}
-    <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/_includes/favicon.ico" >
   </title>
 
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
