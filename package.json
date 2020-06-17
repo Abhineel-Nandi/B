@@ -1,8 +1,8 @@
 {
-    "title": "Clean Blog Jekyll",
-    "name": "startbootstrap-clean-blog-jekyll",
+    "title": "Abhineel's Blog",
+    "name": "Abhineel's-blog",
     "version": "4.0.9",
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "description": "Abhineel's Blog is a Medium inspired blog theme for Bootstrap.",
     "keywords": [
         "css",
         "sass",
@@ -13,17 +13,17 @@
     ],
     "homepage": "https://startbootstrap.com/template-overviews/clean-blog",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/Abhineel-Nandi/B/issues",
+        "email": "noobNandi04@gmail.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Abhineel Nandi (http://abhineel-nandi.github.io/B)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/Abhineel-Nandi/B.git"
     },
     "dependencies": {
         "bootstrap": "4.3.1",
