@@ -12,11 +12,7 @@
 3. Open to clear any doubts regarding the blog can email me at
 #### ***noobNandi04@gmail.com***
 
-## License (Read Carefully)
-This CodeBase and theme is Maintained by and officially belongs to the owner of this repository.
-Copyright @ 2020 lies for all rights including regarding its distribution and forking of the project.
-For any such queries or any sugesstions regarding the tutorials you can contact me.
-This repo is not an opensource its an exclusive property of the owner.
+
 ---
 ### Please Star this repo and contact for any suggestions and topics you would like to see in my post !!!
 ---
